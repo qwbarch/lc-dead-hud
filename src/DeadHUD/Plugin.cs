@@ -44,7 +44,6 @@ namespace DeadHUD
         {
             PlayerControllerB playerScript;
 
-            // X position of the initial spectate icon.
             float IconX(RectTransform transform)
             {
                 var x = transform.anchoredPosition.x * 1.4f + OffsetX;
