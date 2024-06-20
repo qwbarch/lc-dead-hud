@@ -1,0 +1,10 @@
+{
+    "name": "DeadHUD",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/qwbarch/lc-dead-hud",
+    "description": "Modifies the dead player HUD to make it more obvious when a player is talking.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "XuXiaolan-TheGiantSpecimens-2.0.5"
+    ]
+}
